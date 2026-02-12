@@ -1,5 +1,5 @@
 
-This project uses OCR techniques to extract text-encoded data from DOJ releases.
+This project uses OCR techniques to extract text-encoded data from DOJ releases. For EFTA00382083, EFTA00382108, and EFTA00434905 used https://github.com/xTre96/monospace-ocr.git
 
 | File                                                                               | Text Format | Pages | Status     | Contents                                                                                                             | Notes                                                      |
 |------------------------------------------------------------------------------------|-------------|-------|------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
