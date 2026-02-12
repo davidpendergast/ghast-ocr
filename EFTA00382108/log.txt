@@ -1,0 +1,111 @@
+18:42:10 [INFO] ============================================================
+18:42:10 [INFO] Processing: EFTA00382108
+18:42:10 [INFO] ============================================================
+18:42:10 [INFO] Step 1/4: Extracting images from PDF...
+18:42:20 [INFO]   Extracted 24 page images
+18:42:20 [INFO]   24 content pages to process
+18:42:20 [INFO]   Probing 2 sample page(s) for base64 content...
+18:42:20 [INFO] Inference: 2 pages
+18:42:38 [INFO]   Batch mode: 2 images
+18:42:38 [INFO]   Output: C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\img\PDF\Output\EFTA00382108\_probe
+18:42:38 [INFO]   C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\.venv\Lib\site-packages\torch\cuda\__init__.py:184: UserWarning: cudaGetDeviceCount() returned cudaErrorNotSupported, likely using older driver or on CPU machine (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10\cuda\CUDAFunctions.cpp:88.)
+18:42:38 [INFO]     return torch._C._cuda_getDeviceCount() > 0
+18:42:38 [INFO]   Device: cpu
+18:42:38 [INFO]   Detected grid: x=86.1, y=77.0, w=1451.7, h=1947.0
+18:42:38 [INFO]     page-001.png: 6.85s | conf=0.939 (min=0.256) | ambiguous=276
+18:42:38 [INFO]     Auto-fixed 1 ambiguous characters:
+18:42:38 [INFO]       (26,76): '1' \u2192 'l' (gap=0.098)
+18:42:38 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:42:38 [INFO]     page-002.png: 6.75s | conf=0.999 (min=0.387) | ambiguous=3
+18:42:38 [INFO]   
+18:42:38 [INFO]   Batch complete: 2 images in 13.7s (6.83s/image)
+18:42:38 [INFO]   Confidence metrics written to C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\img\PDF\Output\EFTA00382108\metrics.json
+18:42:38 [INFO]   ✓ Base64 content confirmed (1/2 probe pages)
+18:42:38 [INFO] Step 2/4: Running OCR inference...
+18:42:38 [INFO] Inference: 24 pages
+18:45:27 [INFO]   Batch mode: 24 images
+18:45:27 [INFO]   Output: C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\img\PDF\Output\EFTA00382108\text
+18:45:27 [INFO]   C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\.venv\Lib\site-packages\torch\cuda\__init__.py:184: UserWarning: cudaGetDeviceCount() returned cudaErrorNotSupported, likely using older driver or on CPU machine (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10\cuda\CUDAFunctions.cpp:88.)
+18:45:27 [INFO]     return torch._C._cuda_getDeviceCount() > 0
+18:45:27 [INFO]   Device: cpu
+18:45:27 [INFO]   Detected grid: x=90.9, y=102.3, w=1449.6, h=1924.9
+18:45:27 [INFO]     page-000.png: 6.76s | conf=0.962 (min=0.238) | ambiguous=182
+18:45:27 [INFO]   Detected grid: x=86.1, y=77.0, w=1451.7, h=1947.0
+18:45:27 [INFO]     page-001.png: 6.69s | conf=0.939 (min=0.256) | ambiguous=276
+18:45:27 [INFO]     Auto-fixed 1 ambiguous characters:
+18:45:27 [INFO]       (26,76): '1' \u2192 'l' (gap=0.098)
+18:45:27 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:27 [INFO]     page-002.png: 6.68s | conf=0.999 (min=0.387) | ambiguous=3
+18:45:27 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:27 [INFO]     page-003.png: 6.70s | conf=0.999 (min=0.777) | ambiguous=0
+18:45:27 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-004.png: 6.73s | conf=0.999 (min=0.777) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-005.png: 6.71s | conf=0.999 (min=0.777) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-006.png: 6.70s | conf=0.999 (min=0.777) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-007.png: 6.73s | conf=0.999 (min=0.777) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-008.png: 6.71s | conf=0.999 (min=0.517) | ambiguous=1
+18:45:28 [INFO]     Auto-fixed 1 ambiguous characters:
+18:45:28 [INFO]       (1,38): 'l' \u2192 '1' (gap=0.035)
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-009.png: 6.68s | conf=0.999 (min=0.777) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-010.png: 7.37s | conf=0.999 (min=0.653) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-011.png: 8.36s | conf=0.999 (min=0.751) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-012.png: 6.74s | conf=0.999 (min=0.777) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-013.png: 6.70s | conf=0.999 (min=0.777) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-014.png: 6.70s | conf=0.999 (min=0.777) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-015.png: 6.69s | conf=0.999 (min=0.777) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-016.png: 6.72s | conf=0.999 (min=0.777) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-017.png: 6.69s | conf=0.999 (min=0.690) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-018.png: 6.67s | conf=0.999 (min=0.820) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-019.png: 6.69s | conf=0.999 (min=0.732) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-020.png: 6.73s | conf=0.999 (min=0.721) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-021.png: 6.66s | conf=0.999 (min=0.820) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:28 [INFO]     page-022.png: 6.66s | conf=0.999 (min=0.743) | ambiguous=0
+18:45:28 [INFO]   Detected grid: x=89.5, y=76.2, w=1216.8, h=1732.9
+18:45:28 [INFO]     page-023.png: 6.68s | conf=0.917 (min=0.227) | ambiguous=356
+18:45:28 [INFO]     Auto-fixed 1 ambiguous characters:
+18:45:28 [INFO]       (49,48): 'I' \u2192 'l' (gap=0.116)
+18:45:28 [INFO]   
+18:45:28 [INFO]   Batch complete: 24 images in 163.8s (6.83s/image)
+18:45:28 [INFO]   Confidence metrics written to C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\img\PDF\Output\EFTA00382108\metrics.json
+18:45:28 [INFO]   Re-OCR'ing 2 partial page(s) with forced grid...
+18:45:28 [INFO] Inference: 2 pages
+18:45:46 [INFO]   Batch mode: 2 images
+18:45:46 [INFO]   Output: C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\img\PDF\Output\EFTA00382108\text
+18:45:46 [INFO]   C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\.venv\Lib\site-packages\torch\cuda\__init__.py:184: UserWarning: cudaGetDeviceCount() returned cudaErrorNotSupported, likely using older driver or on CPU machine (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10\cuda\CUDAFunctions.cpp:88.)
+18:45:46 [INFO]     return torch._C._cuda_getDeviceCount() > 0
+18:45:46 [INFO]   Device: cpu
+18:45:46 [INFO]   Loaded grid configuration from file.
+18:45:46 [INFO]   Using cached grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:46 [INFO]     page-001.png: 6.74s | conf=0.997 (min=0.407) | ambiguous=8
+18:45:46 [INFO]   Using cached grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:45:46 [INFO]     page-023.png: 6.67s | conf=0.999 (min=0.407) | ambiguous=5
+18:45:46 [INFO]   
+18:45:46 [INFO]   Batch complete: 2 images in 13.5s (6.73s/image)
+18:45:46 [INFO]   Confidence metrics written to C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\img\PDF\Output\EFTA00382108\metrics.json
+18:45:46 [INFO] Step 3/4: Reassembling text...
+18:45:46 [INFO]   Skipped 2 non-base64 pages: page-000.txt, page-001.txt
+18:45:46 [INFO] Reassembled 22 base64 pages → recovered.txt (1423 lines)
+18:45:46 [INFO] Step 4/4: Decoding base64...
+18:45:46 [INFO] No %PDF header in decoded output (got: '\n��z{~O*'), attempting auto-recovery...
+18:45:46 [INFO] ✓ Auto-recovered PDF with header prefix: 80,835 bytes
+18:45:46 [INFO]   Avg confidence: 0.998 | Min: 0.407 | Ambiguous chars: 13
+18:45:46 [INFO] ✓ SUCCESS in 215.9s
+18:45:46 [INFO] 
