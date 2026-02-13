@@ -1,0 +1,238 @@
+
+1267y
+Delivered-To: ~~~~~~~~~~~~~~~~~~~~
+Received: by 10.25.4.6 with SMTP id 6csp609594lfe; Thu, 27 Oct 2016 07:13:51
+ -0700 (PDT)
+X-Received: by 10.13.226.83 with SMTP id l80mr7675055ywe.77.1477577631405;
+ Thu, 27 Oct 2016 07:13:51 -0700 (PDT)
+Return-Path: <~~~~~~~~~~~~~~~~~~~~~>
+Received: from us-smtp-delivery-~~~~~~~~~~~~~~~~
+ (us-smtp-delivery-~~~~~~~~~~~~~~~~~ [63.128.21.196]) by ~~~~~~~~~~~~~ with
+ ESMTPS id t123si2799024ywd.119.2016.10.27.07.13.50 for <~~~~~~~~~~~~~~~~~~~
+ (version=TLS1 2 cipher=ECDHE-RSA-AES128-SHA bits=128/128); Thu, 27 Oct 2016
+ 07:13:51 -0700 (PDT)
+Received-SPF: pass (~~~~~~~~~~: domain of ~~~~~~~~~~~~~~~~~~~~~ designates
+ 63.128.21.196 as permitted sender) client-ip=63.128.21.196;
+Authentication-Results: ~~~~~~~~~~~~~; dkim=fail
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~; spf=pass (~~~~~~~~~~: domain of
+ ~~~~~~~~~~~~~~~~~~~~~ designates 63.128.21.196 as permitted sender)
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=~~~~~~~~~~~~~~~~~~~~~~~~~; s=selector1-apollolp-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=ydGzbM2EF6uwxoIFdBiivhYAs3za1tKQDMIBV5bWoQk=;
+ b=rx9PZjHe++zHF2+labWOToPS4h6XaX9S+84l1c2A3GTpkVmG+mOBYEShhhBNCIrC8W7ENy1wD
+fbuxUPfQgZs+va5BzhbCTSpySS3pYuRLkOJD348XKZJEMUWfYLpBqH7oGXHMVg8RbaLdTFzTag=
+Received: from NAM03-DM3-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (mail-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ [207.46.163.22]) (Usin
+ TLS) by us-smtp-~~~~~~~~~~~~~~ with ESMTP id
+ us-mta-104-lWFvpadaMFKYOV9BohpOqA-1; Thu, 27 Oct 2016 10:13:46 -0400
+Received: from ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (10.172.163.32) by
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (10.141.218.146) with Microsoft SMTP
+ Server (version=TLS1 2, cipher=TLS ECDHE RSA WITH AES 256 CBC SHA384 P384)
+ 15.1.679.12; Thu, 27 Oct 2016 14:13:44 +0000
+Received: from SN1NAM02FT051.eop-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (2a01:111:f400:ye44::206) by ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (2603:10b6:300:ee::32) with Microsoft SMTP Server (version=TLS1 2,
+ cipher=TLS ECDHE RSA WITH AES 256 CBC SHA384 P384) id 15.1.679.12 via
+ Frontend Transport; Thu, 27 Oct 2016 14:13:44 +0000
+Received: from ~~~~~~~~~~~~~~~~~~~~ (63.151.43.140) by
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (10.152.73.103) with Microsoft SM
+ Server (version=TLS1 0, cipher=TLS ECDHE RSA WITH AES 256 CBC SHA P384) id
+ 15.1.679.5 via Frontend Transport; Thu, 27 Oct 2016 14:13:44 +0000
+Received: from ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ([fe80::255d:779a:2c83:f134]) by
+ ~~~~~~~~~~~~~~~~~~~~~~~~ ([fe80::c403:dee7:1e03:99de%14]) with mapi id
+ 14.03.0279.002; Thu, 27 Oct 2016 10:13:34 -0400
+From: Melanie Spinella <~~~~~~~~~~~~~~~~~~~~~>
+To: '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+Subject: RE: Jeffrey Epstein
+Thread-Topic: Jeffrey Epstein
+Thread-Index: AQHSMFxI7S8jWzd/KE+IopYz3xYZrKC8V90w
+Date: Thu, 27 Oct 2016 14:13:33 +0000
+Message-ID: <~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+References: <629D9ADD-20E5-420F-A509-~~~~~~~~~~~~~~~~~~~~~~>
+In-Reply-To: <629D9ADD-20E5-420F-A509-~~~~~~~~~~~~~~~~~~~~~~>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.33.200.190]
+MIME-Version: 1.0
+Return-Path: ~~~~~~~~~~~~~~~~~~~~~
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:63.151.43.140;IPV:NLI;CTRY:US;EFV:NLI;SFV:N
+01)(y916002)(3000300001)(13464003)(189002)(199003)(3y7454003)(40124003)(2624
+)(110136003)(106116001)(105596002)(53416004)(586003)(7696004)(92566002)(1064
+2)(7846002)(7736002)(6116002)(356003)(305945005)(3480700004)(7116003)(236760
+)(86362001)(189998001)(5660300001)(8936002)(68736007)(80792005)(104016004)(9
+9)(76176999)(54356999)(8676002)(221733001)(19580395003)(19580405001)(6916009
+96002)(47776003)(2900100001)(81166006)(2920100001)(55846006)(11100500001)(29
+100002)(79686003);DIR:OUT;SFP:1102;SCL:1;SRVR:BY2PR04MB872;~~~~~~~~~~~~~~~~~
+PTR:InfoDomainNonexistent;MX:1;A:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;SN1NAM02FT051;1:RNNN1ioB5bMj/kcbdxZOlIVZ
+3ebA0CL5zLax+QaPOTD8g14bXpDfCddZD5PRIoMyGeJTXIZpQvknMRpZHpWXBQChi8y4hRcK8koU
+lwAwHapMzYo6DLIFeojsFbqBzBqZoBzbcLBwZX++KQNNKCovNcLeoOnvdN9Sbq9r5UrN+P/Qx0F7
+RaPqdMaetee3vm/HEzUXWsCayUFDfr5t6r0oISquXkBn1ocxx6l1gj2I/aHy7Cv1fzfcNVQlViyk
+3wN52pBPKRMhm/tt6L3g0tf0otbPEgD7DWEpJTT4IOIFcNwSt+kJMROV168YyWABeb25toAwzhmE
+xyUCbxiF27tgIFoUuYLGjg==
+X-MS-Office365-Filtering-Correlation-Id: 28ee3c57-4eyb-496a-698a-08d3fe73760
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR04MB872;2:XVC4AjXqQS62zbOVKQvXCuWWm
+6houpoO/I9nMrYISwUvfTkith5TPW9mm0weiHSv6aqvx7xnHVeGAaH7vJ9EfoN9Mm6knqtkPWZr3
+Uh3AvuoaSmdKksmeUJ+Bs6oKMdQQmreDE/HiJZk2WwtG8pS67r+CGcfg+cpngLAUg==;3:c9pRL6
+n5Zwb9o3dkZ25xwr5COsejolq3o9vtNhJeJMpcWAs+IDYDjZdSIwksklU12BNSdZTT/vDWDsBUg3
+v55kc/Xjww5Q+l6p0R5eMD1/Mep4vfWTOofvtAnEgfKV+NqcqAlHxW+X/TDJFew5G32I0FWG7ROf
+aUYoNIVohpOVrafvTH57fzPPYo;25:jsPpK+MmJDMKAfadSZkWDlmCap61n1QJ6oPf+dQtL7uvTt
+Xg2IPlS2yvHjUc7JonHN3L9r+anH5rrSJWz2Zn0rCDB8lhpgcU8vHYHyF+9rJuGS36BpKEZgFblg
+L8VktiNqlojbwbMVHfUYKnodCgVylrzxhp1VPqC0odTZYypf3aNCHHSfeg6ZoGXmPS6/MjI0GX0R
+o6qlns2pPSzmGAsebJQh5xAGovIJTg9D/2vwrZRwrFHCnwDwX4UIckLhhpc7+nuqrDnKGna1ZeRY
+QMNCGZwi/kQKNX8Wom/OJfQndMHsvNVtR5rXb5dtqqveHO6b9gK92fgUwMDauOSVKezmWFRmpC3e
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BY2PR04MB872;
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR04MB872;31:CFMF+UMpMKB3BrkddC8BdsK7
+jMGJ+ppZAlJaspjl+qRU6BBk2P0OS6IdZumzr2jyKH2JKZU0ttl/uofup+iRQAOVEZczoWrUZutL
+fuqztPPAqLAgPFXNdxEY9boCacQg8J8BGkGrI+8IXNj9wcxmzWmvxzpj82LMpGjSTaJ4Q0njUvON
+UKvai4CQuQRhr2SXd0HhE1eHGJ6PiQ==;20:sjwtM6UScAEzFQ0cmCSHz89E8cgniyUziXf28x+v
+Mo5sdGf8CtwUfw8jJAmbB5fGMdURKzoJTU6ZUp+KQbvuLxB1YvHdJnCj8fcQ4yKVcKppQcweLkQL
+JCLrxptO34x24zbnLqTzBiwID6Qn42xHNLp5jSin58HEdVuBJJnO+N+/hkIiOd7shcKZbctu19G5
+nCX2qtHtMQ8FsgGrQLG6YVoY/J45m2/+4YaUIh9djASDUEJoyMYpgzMbUwr8gC5dChxw4BVNg2Xr
+PnVjazWK3JDw+rV02ahRq31mSJxiPj/aJ30a+70Z6+E1cmdFNvG6hyirlDa93QPumZlJCGqSFlEl
+8HqSyUilTcvRS53mtdmfmzZojBuWyRtf+EMdgacuU9/G8yNK
+X-Microsoft-Antispam-PRVS: <BY2PR04MB8728C2F9B02CA83258E02A1B8AA0@BY2PR04MB8
+.com>
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(6040176)(601004)(24
+5)(8121501046)(5005006)(10201501046)(3002001);SRVR:BY2PR04MB872;BCL:0;PCL:0;
+2;
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR04MB872;4:c3Q1fG9YqOSzQbow70p6zL9tV
+tyeqOtHL/J3+Ueteyytewicpl1yd151KLmXi/elkyZGxx3oAimW0z2AYgFlo8YuTWX2w4QTbZDgQ
+7x7IvGuburAPDo/w2R8EW7M3Eg+1m4Go52ElnUV/aZbyfPN+hY9uqWVX5MxnYd73TAETuvTV3DAd
+Rk2VKwdU68KECmhW+8IfKt2PADYAIwx/QVCK2ngvp9vHSzZvm1UMjQpWGjoyylI1izzGk/xAziew
+MgK/nZuzEaXqH58SU8u2nh+wQh1s9R3MeTqqlrc4zOwc7VTbgc19k1/u3kRIBBS+PiJ2n8PTd1kP
+X-Forefront-PRVS: 0108A997B2
+X-Microsoft-Exchange-Diagnostics: =?utf-8?B?MTtCWTJQUjA0TUI4NzI7MjM6NUhyTUV4
+L1kv?=
+ =?utf-8?B?YTlKdzVXRnBndFZSamhKb1JONCtweVFUOXE2cFpaVmdibStsTm54TmN4eGhQ?=
+ =?utf-8?B?dE5OR1R6Q3RZR2svNi96MVBJdFk2MUp0ekxHYTdoRjUwbFR2TG9UNGswQWJN?=
+ =?utf-8?B?cko1WU1xaFo3L2ZybDBQNUtjZm56Q3E4UVZRVXJHeWtjZ2FBa0x1S004SEFZ?=
+ =?utf-8?B?ZDI1N2FQb3VzLzZ1RDlYd1NTV2lKYXZNaHY5djRQNkdDTXpmUjYyWXBlOVpk?=
+ =?utf-8?B?SjQxTVNIeWRNMXAzNElZRkVsekx4VEZCRGU0TTEzS0xUWXRINVc5QXJRMkVm?=
+ =?utf-8?B?Vk1TTkRRZHFNZktSRXY4dFo1QldpNDhIV0JTMUlnQm1LUTBpbHpSZXJIN09T?=
+ =?utf-8?B?dnpNUk5MN3lvUkNpRFBrb2R6dmRTc0drMnJrdC9URDdpM1NTZURvM21TSk5O?=
+ =?utf-8?B?VzhaYnRoZ0tRQTFEeEtVcTBaaFdGY0NPRGZ0Nks0eTJEdzY3dTFvMFBaYW5V?=
+ =?utf-8?B?cC9pbGgraENwS0IrOEdaZ201YVE1aVJEamZZbk5jVHNSVGVPTUg3bjdVTDI5?=
+ =?utf-8?B?aTRLTmQzWERWVjVGMHZubTlSVnRPUGZDK0FzbVJDOVVTcHA5M0tXYURDNm5J?=
+ =?utf-8?B?ZFlDc3JuVzBxSGViaUExQmhNeW9CbDJPdnBBdElDcGNNNThTWEx1a2FZanE2?=
+ =?utf-8?B?d2lRRWtLMm4xSFJBZHpOTjd3MTlnTHBWWUlLME9nRHFEWUhCYllad09KOUxD?=
+ =?utf-8?B?b28ybDUxNWoxYjNBVnNNV0hXbkJWb2JISXN3azAwTk12VFA4T1hiaitNZ0Yy?=
+ =?utf-8?B?SjBWejRHUXNDTHRGNWNLc0Z6UTNSSzdsNm5Oc3BMY1NRd2FGc0hndTZyS1Fh?=
+ =?utf-8?B?TFJKdklUdGpVMWlXMzBDS2JaS2ZXVnhBNzVDS2d6MGZLelN2SVBPTGZLSDUy?=
+ =?utf-8?B?SGJGWGlMR1hUajU5TUt2Y2ViZGd0M2ZueEZBS0I2Y1lLNW1mWC9tVmJQWEN5?=
+ =?utf-8?B?QlZYdkp5UEh4cTNuZHh1d0NpZWtVZHJBRDU0dVVxakd3UVBnT3BkZURWY294?=
+ =?utf-8?B?OWVMbWUvMThnU2I4SHRiNGduOWZGTzJseTNQMGdXbEd2WVVsai9PMFBrNXh2?=
+ =?utf-8?B?TXFFM2lnRkl1SjMwWi9QTTN1YzFzcjJzSEVmYmU3dDliVGppNnRBbWdwZC9T?=
+ =?utf-8?B?RGxSTzgvMlVrRG9KTTdadUdnNmtBSDl5K0pyZ3hqaEl4WVh3enh0YWgvcU9l?=
+ =?utf-8?B?R1dUMWZPOGE4L3VRNkdBQU9qM2k3QllQM25iRnBhYnd1YVg4V2s1d1hMcm5T?=
+ =?utf-8?B?V3dqaE85cWR1Zi9sUDFPc3FpaWlEa2JPOXpyd0hLWUhMMnBJaC9MMG13WGxv?=
+ =?utf-8?B?bk4vMzVMTU9YSzlDeUxXZktPZXNJaE91TXdpb2wvMVFaSjNrNndlRTVvZDVK?=
+ =?utf-8?B?TkQ2U3hSZWFHdkFrSzNoeElKM1F0N2NOTXBLM1QvdFRSTGxRSWVDNmxud0ZH?=
+ =?utf-8?B?NWJZMVlTT2ROaDg3V2hSVjlJMXJOdEpyQm1kQjFnVkZ2OGY3dTFOaFBIaDVE?=
+ =?utf-8?B?c3k1NkRSSTNROGxML2VFN2ZBazNiT2tQZmpWb2ZvMDQydlVSMzQ0WUpYUExk?=
+ =?utf-8?B?Qy8ybjNjYWhOOW5KV1RjcFhDTTN3VUdBRXRPTFZuWWhiN1V3UUJMTTF6czNh?=
+ =?utf-8?B?OXRvdk5DR2YxWXo4UWdYZEkxR3IwcFVzUFpZd3JNaUw1bFgrSm9mU2Fsa1pw?=
+ =?utf-8?B?NERRQXY4QjZyb3hoMmZxV3FUREU2Vy9GbGJpME4xM0o0a1FlRXNmTGpEb0Jp?=
+ =?utf-8?B?alJHZGNYV3loMVV2OElobDNJNG1SNWRMYkVpYzZqUDdNU1B5d3cvM1FGazV5?=
+ =?utf-8?B?ek1LUjljU3czMDJZbk1GMkxsZFByU2pQOXRaZldJcGZpOE9iSHU5NDV2Q3Zh?=
+ =?utf-8?Q?qHcwFh3GshDMrVH/MW3qorWMc9aDk=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR04MB872;6:PeXn9VPcEso/dUjtJveUI2oGa
+JWl1ZtlUNMeGOKdr/OvGRnITu7Pk9rb7ikwuBs6ik+tn4hz5bdAnB6uF5kPQG/OK+mo1dXCGL6Wy
+mmnMc7A/geOq4H044EisQpCUXXP3Kr4Mf7raKAPEHc1AqgVzysZVU/TzY/KI8MbWfGYJiSUVOO6O
+GZCyp0GpNFeBqqbdP8qbTuDtBaAFmcnQW86xIHvby2nCcCNEBh1seGETwAf/U6yJGwybCCT;5:rU
+nS4eKUl18LK/KfYnj1H8IBPm7OaGy8p3aUl1FujyjmQMWC64mr7PLWGcTbl3rqb3Wt+bHhzIptQe
+aN8aQtbxK9QyP16qSCdLrbtQ==;24:C7BfZzr1U0jPW5Ha5Bku18WDTeu2GKJS+zuglWYlbN8LOi
+t9mp0yj6+bPUlIgbUaKD5EdA1liW+qGbN0aYQ=;7:UMxA2qepcU9VhSe7UFrUjBwBYLhq8AkXXwd
+LTvxa7UxjFKC1ri7zanhZyaOi7oMrkNOWLDwhteoC9cgdNELUJpbeDi5aOMT2A7GcgnqmaRUeeq9
+e1RvNDzIi+c53lK3am3ulW1eQ17Aq72ni1eSi43ktTnCRn9MYi4gy8gLNb5j97IDW7xcpE7KAGaj
+Z5X76ec1GegHoyBuUN4n4f3adWGrzCattn4quKmjdAILumWSIrx7S7Y7HN5UGRx1UiM8J+ngsy34
+GL9E=
+SpamDiagnosticOutput: 1:99
+SpamDiagnosticMetadata: NSPM
+X-OriginatorOrg: ~~~~~~~~~~~~
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 27 Oct 2016 14:13:44.1334 (UT
+X-MS-Exchange-CrossTenant-Id: 2088ee7e-2bea-4779-afad-dc0849b1f98d
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=208
+849b1f98d;Ip=[63.151.43.140];Helo=[~~~~~~~~~~~~~~~~~~~~]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR04MB872
+X-MC-Unique: lWFvpadaMFKYOV9BohpOqA-1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+U28gZmFyIC0gdGhhbmtzDQoNCi0tLS0tT3JpZ2luYWwgTWVzc2FnZS0tLS0tDQpGcm9tOiBMZXNs
+ZXkgR3JvZmYgW21haWx0bzpsZXNsZXkuamVlQGdtYWlsLmNvbV0NClNlbnQ6IFRodXJzZGF5LCBP
+Y3RvYmVyIDI3LCAyMDE2IDEwOjEzIEFNDQpUbzogTWVsYW5pZSBTcGluZWxsYQ0KU3ViamVjdDog
+SmVmZnJleSBFcHN0ZWluDQoNCk1vcm5pbmchICBSZWNvbmZpcm1pbmcgd2Ugd2lsbCBzZWUgTGVv
+biAxMToxNS0xMjowMOKApnRoYW5rcyENCg0KTGVzbGV5DQpUaGlzIGVtYWlsIGFuZCBhbnkgZmls
+ZXMgdHJhbnNtaXR0ZWQgd2l0aCBpdCBhcmUgY29uZmlkZW50aWFsIGFuZCBpbnRlbmRlZCBzb2xl
+bHkgZm9yIHRoZSBwZXJzb24gb3IgZW50aXR5IHRvIHdob20gdGhleSBhcmUgYWRkcmVzc2VkIGFu
+ZCBtYXkgY29udGFpbiBjb25maWRlbnRpYWwgYW5kL29yIHByaXZpbGVnZWQgbWF0ZXJpYWwuIEFu
+eSByZXZpZXcsIHJldHJhbnNtaXNzaW9uLCBkaXNzZW1pbmF0aW9uIG9yIG90aGVyIHVzZSBvZiwg
+b3IgdGFraW5nIG9mIGFueSBhY3Rpb24gaW4gcmVsaWFuY2UgdXBvbiB0aGlzIGluZm9ybWF0aW9u
+IGJ5IHBlcnNvbnMgb3IgZW50aXRpZXMgb3RoZXIgdGhhbiB0aGUgaW50ZW5kZWQgcmVjaXBpZW50
+IGlzIHByb2hpYml0ZWQuIElmIHlvdSBoYXZlIHJlY2VpdmVkIHRoaXMgZW1haWwgaW4gZXJyb3Ig
+cGxlYXNlIGNvbnRhY3QgdGhlIHNlbmRlciBhbmQgZGVsZXRlIHRoZSBtYXRlcmlhbCBmcm9tIGFu
+eSBjb21wdXRlci4gQXBvbGxvIEdsb2JhbCBNYW5hZ2VtZW50LCBMTEMNCg==
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "~~~~~~~~~~~~~~~~~~~~~~
+">
+<plist version="1.0">
+<dict>
+        <key>color</key>
+        <string>000000</string>
+        <key>date-last-viewed</key>
+        <integer>1477579635</integer>
+        <key>date-received</key>
+        <integer>1477577631</integer>
+        <key>flags</key>
+        <integer>8590195845</integer>
+        <key>gmail-label-ids</key>
+        <array>
+                <integer>51</integer>
+                <integer>84</integer>
+        </array>
+        <key>remote-id</key>
+        <string>381089</string>
+</dict>
+</plist>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,158 @@
+6093
+Delivered-To: ~~~~~~~~~~~~~~~~~~~~
+Received: by 10.25.4.6 with SMTP id 6csp166555lfe; Wed, 26 Oct 2016 10:49:57
+ -0700 (PDT)
+X-Received: by 10.31.55.138 with SMTP id e132mr2270935vka.0.1477504197441;
+ Wed, 26 Oct 2016 10:49:57 -0700 (PDT)
+Return-Path: <~~~~~~~~~~~~~~~~~~~~~~~~>
+Received: from NAM01-BN3-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ (mail-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ [104.47.33.71]) by
+ ~~~~~~~~~~~~~ with ESMTPS id k18si1262622uaa.105.2016.10.26.10.49.56 for
+ <~~~~~~~~~~~~~~~~~~~~> (version=TLS1 2 cipher=ECDHE-RSA-AES128-SHA
+ bits=128/128); Wed, 26 Oct 2016 10:49:5y -0700 (PDT)
+Received-SPF: pass (~~~~~~~~~~: domain of ~~~~~~~~~~~~~~~~~~~~~~~~ designate
+ 104.47.33.71 as permitted sender) client-ip=104.47.33.71;
+Authentication-Results: ~~~~~~~~~~~~~; dkim=pass
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~; spf=pass (~~~~~~~~~~: domain of
+ ~~~~~~~~~~~~~~~~~~~~~~~~ designates 104.47.33.71 as permitted sender)
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=~~~~~~~~~~~~~~~~~~~~~~~~~~~; s=selector1-oppenoffice-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=j7q2/vN+QJVU58ZNXVgxdUYTwgq4DOHP52tfYCW9AMc=;
+ b=rn6JY4vQGAXZ6AzfrBmDHldQ28wdsBjdD1xnquSmJG2L5bCyPV3pRdsJAUcRs4HTpCZj8pxqq
+ZKk9j1nBoGhI2PQUTyXYVszn5HG+dHp5Ym0Od1V/NHSyn/n+YVHQHnLvRUEVjas/YdoJe7cIUc=
+Received: from ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (10.141.203.146) by
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (10.141.203.154) with Microsoft SMTP
+ Server (version=TLS1 2, cipher=TLS ECDHE RSA WITH AES 256 CBC SHA384 P384)
+ 15.1.679.12; Wed, 26 Oct 2016 17:49:54 +0000
+Received: from ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ([10.141.203.146]) by
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ([10.141.203.146]) with mapi id
+ 15.01.0679.015; Wed, 26 Oct 2016 17:49:54 +0000
+From: Jennifer Andia <~~~~~~~~~~~~~~~~~~~~~~~~>
+To: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+Subject: RE: Jeffrey Epstein 2:40pm
+Thread-Topic: Jeffrey Epstein 2:40pm
+Thread-Index: AQHSL7AAudvbjei+xk+WaN9LSpW1+qC7ANiw
+Date: Wed, 26 Oct 2016 17:49:54 +0000
+Message-ID: <~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+References: <06FB9986-2736-4CBA-82D5-~~~~~~~~~~~~~~~~~~~~~~>
+In-Reply-To: <06FB9986-2736-4CBA-82D5-~~~~~~~~~~~~~~~~~~~~~~>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+x-originating-ip: [173.162.68.193]
+x-ms-office365-filtering-correlation-id: 813a8c3a-30a0-4a08-a9e9-08d3fdc87ea
+x-microsoft-exchange-diagnostics: 1;BLUPR04MB628;6:+GuHhJz7SwV9B2v7m2+52UuYA
++p75oiiGl6/Y5e7kq1YM5P/T785VcSUwkMFycPzvIqSi3ZjI39BJE/0zGv222oqiyncowI5tbgPG
+yAHGxjE6AQr1jnlnhgC1UamBvJQCJTgRbOUI/0pE+ornISvIjrPOE855XNAzYNL+62ckhY5JB+G4
+KzYeUIft5stNrjXzfhKq2YARObNFzexbfWwjDz8cY7V9f0LhaJg/zp3vaDVz8tDKN/awk4A;5:CF
+XKaXOqTjTpweeKkGwG3nF/R7lMiGJXs53b2QjwB3fxE5OgHGE8PeIYi6bT3S/xPgR57QT9wB3h2M
+6ylMXHi6DAWExnbkYrMVHqQw==;24:bS2yseKs7brw8MzMrCvYKXct/3s3m7VYo/65lw4ryqURyb
+tF6he1PVAK6sQ5RkxpqxWbCu2Jgbc264cJGxQ=;7:rAKP7l2Iz3OS6gpt1L+AUDEw7zPbI1x2B7O
+6P7PFiLQg2T2/SoYuT0EUko4eG31LYWni9IKQZmsOmJBEj3I1QMEU4lZll5xv0S85+Npqtmb4Rhg
+g0Wwnr9I3b6kRVZnN1PsOnSaWci9N4YlpHl7RI/K4RLGsJ35ZiBufAkErVs/SUWxJbAx5krWqXvD
+OiYVuV8UmvnV7C+6YvAgG1lLxBJWzIFRyk/FsLk1/wTWa4nmAs7GRJYe0JygIY3XHr0SWui/liGW
+wztg=
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BLUPR04MB628;
+x-microsoft-antispam-prvs: <BLUPR04MB6280EB9C99FB669FCD105F1C6AB0@BLUPR04MB6
+.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040176)(601004)(24
+06)(3002001)(10201501046);SRVR:BLUPR04MB628;BCL:0;PCL:0;RULEID:;SRVR:BLUPR04
+x-forefront-prvs: 0107098B6C
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(6009001)(7916002)(19900
+464003)(9686002)(11100500001)(3846002)(107886002)(102836003)(2906002)(189998
+68736007)(92566002)(586003)(106356001)(106116001)(6116002)(105586002)(770960
+(2900100001)(86362001)(5660300001)(110136003)(74316002)(7846002)(6916009)(29
+6001)(10400500002)(450100001)(3660700001)(305945005)(66066001)(33656002)(765
+4)(81166006)(8676002)(19580395003)(99286002)(54356999)(19580405001)(50986999
+9)(122556002);DIR:OUT;SFP:1101;SCL:1;SRVR:BLUPR04MB628;H:BLUPR04MB625.~~~~~~
+;SPF:None;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+received-spf: None (~~~~~~~~~~~~~~~~~~~~~~: ~~~~~~~~~~~~~~~ does not designa
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-OriginatorOrg: ~~~~~~~~~~~~~~~
+X-MS-Exchange-CrossTenant-originalarrivaltime: 26 Oct 2016 17:49:54.6618 (UT
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 11bf0fdc-be8a-4526-990c-8485ebb985c7
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR04MB628
+
+SXMgSmVmZnJleSBjYWxsaW5nIHRoZSBvZmZpY2U6IDMwNS01NzYtODQwNCB4LjYyND8gVGhhbmtz
+IA0KDQpKRU5OSUZFUiBBTkRJQQ0KRVhFQ1VUSVZFIEFTU0lTVEFOVA0KT1BQRU5IRUlNDQpBUkNI
+SVRFQ1RVUkUNCjMwNSA1NzYgODQwNCB8IDYyNA0KT1BQRU4uQ09NDQpNSUFNSSAvIE5FVyBZT1JL
+IC8gQkFTRUwNCsKgwqDCoA0KQ09ORklERU5USUFMSVRZDQoNCg0KLS0tLS1PcmlnaW5hbCBNZXNz
+YWdlLS0tLS0NCkZyb206IExlc2xleSBHcm9mZiBbbWFpbHRvOmxlc2xleS5qZWVAZ21haWwuY29t
+XSANClNlbnQ6IFdlZG5lc2RheSwgT2N0b2JlciAyNiwgMjAxNiAxOjQwIFBNDQpUbzogSmVubmlm
+ZXIgQW5kaWEgPGplbm5pZmVyQG9wcGVub2ZmaWNlLmNvbT47IENocmlzdGlhbiBHbGF1c2VyIEJl
+bnogPENocmlzdGlhbkBvcHBlbm9mZmljZS5jb20+DQpTdWJqZWN0OiBKZWZmcmV5IEVwc3RlaW4g
+Mjo0MHBtDQoNCkhpIEplbm5pZmVy4oCmcmVjb25maXJtaW5nIEplZmZyZXkgd2lsbCBjYWxsIENo
+YWQgdG9kYXkgYXQgMjo0MHBt4oCmDQoNCnRoYW5rIHlvdSEgIExlc2xleQ0K
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "~~~~~~~~~~~~~~~~~~~~~~
+">
+<plist version="1.0">
+<dict>
+        <key>color</key>
+        <string>000000</string>
+        <key>date-last-viewed</key>
+        <integer>1477507355</integer>
+        <key>date-received</key>
+        <integer>1477504197</integer>
+        <key>flags</key>
+        <integer>8590195845</integer>
+        <key>gmail-label-ids</key>
+        <array>
+                <integer>51</integer>
+                <integer>84</integer>
+        </array>
+        <key>remote-id</key>
+        <string>380901</string>
+</dict>
+</plist>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
