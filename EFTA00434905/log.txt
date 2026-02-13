@@ -1,0 +1,64 @@
+18:46:08 [INFO] ============================================================
+18:46:08 [INFO] Processing: EFTA00434905
+18:46:08 [INFO] ============================================================
+18:46:08 [INFO] Step 1/4: Extracting images from PDF...
+18:46:09 [INFO]   Extracted 5 page images
+18:46:09 [INFO]   5 content pages to process
+18:46:09 [INFO]   Probing 2 sample page(s) for base64 content...
+18:46:09 [INFO] Inference: 2 pages
+18:46:28 [INFO]   Batch mode: 2 images
+18:46:28 [INFO]   Output: C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\img\PDF\Output\EFTA00434905\_probe
+18:46:28 [INFO]   C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\.venv\Lib\site-packages\torch\cuda\__init__.py:184: UserWarning: cudaGetDeviceCount() returned cudaErrorNotSupported, likely using older driver or on CPU machine (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10\cuda\CUDAFunctions.cpp:88.)
+18:46:28 [INFO]     return torch._C._cuda_getDeviceCount() > 0
+18:46:28 [INFO]   Device: cpu
+18:46:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:46:28 [INFO]     page-001.png: 7.12s | conf=0.999 (min=0.777) | ambiguous=0
+18:46:28 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:46:28 [INFO]     page-002.png: 6.79s | conf=0.999 (min=0.772) | ambiguous=0
+18:46:28 [INFO]   
+18:46:28 [INFO]   Batch complete: 2 images in 14.0s (6.98s/image)
+18:46:28 [INFO]   Confidence metrics written to C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\img\PDF\Output\EFTA00434905\metrics.json
+18:46:28 [INFO]   ✓ Base64 content confirmed (2/2 probe pages)
+18:46:28 [INFO] Step 2/4: Running OCR inference...
+18:46:28 [INFO] Inference: 5 pages
+18:47:08 [INFO]   Batch mode: 5 images
+18:47:08 [INFO]   Output: C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\img\PDF\Output\EFTA00434905\text
+18:47:08 [INFO]   C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\.venv\Lib\site-packages\torch\cuda\__init__.py:184: UserWarning: cudaGetDeviceCount() returned cudaErrorNotSupported, likely using older driver or on CPU machine (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10\cuda\CUDAFunctions.cpp:88.)
+18:47:08 [INFO]     return torch._C._cuda_getDeviceCount() > 0
+18:47:08 [INFO]   Device: cpu
+18:47:08 [INFO]   Detected grid: x=86.8, y=106.5, w=1446.5, h=1902.6
+18:47:08 [INFO]     page-000.png: 6.81s | conf=0.924 (min=0.283) | ambiguous=358
+18:47:08 [INFO]     Auto-fixed 1 ambiguous characters:
+18:47:08 [INFO]       (58,39): 'O' \u2192 '0' (gap=0.117)
+18:47:08 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:47:08 [INFO]     page-001.png: 6.75s | conf=0.999 (min=0.777) | ambiguous=0
+18:47:08 [INFO]   Detected grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:47:08 [INFO]     page-002.png: 6.73s | conf=0.999 (min=0.772) | ambiguous=0
+18:47:08 [INFO]   Detected grid: x=89.9, y=77.0, w=1216.3, h=1945.0
+18:47:08 [INFO]     page-003.png: 6.69s | conf=0.999 (min=0.700) | ambiguous=0
+18:47:08 [INFO]   Detected grid: x=89.5, y=79.0, w=1216.8, h=1671.4
+18:47:08 [INFO]     page-004.png: 7.14s | conf=0.919 (min=0.308) | ambiguous=334
+18:47:08 [INFO]   
+18:47:08 [INFO]   Batch complete: 5 images in 34.3s (6.85s/image)
+18:47:08 [INFO]   Confidence metrics written to C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\img\PDF\Output\EFTA00434905\metrics.json
+18:47:08 [INFO]   Re-OCR'ing 1 partial page(s) with forced grid...
+18:47:08 [INFO] Inference: 1 pages
+18:47:20 [INFO]   Batch mode: 1 images
+18:47:20 [INFO]   Output: C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\img\PDF\Output\EFTA00434905\text
+18:47:20 [INFO]   C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\.venv\Lib\site-packages\torch\cuda\__init__.py:184: UserWarning: cudaGetDeviceCount() returned cudaErrorNotSupported, likely using older driver or on CPU machine (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10\cuda\CUDAFunctions.cpp:88.)
+18:47:20 [INFO]     return torch._C._cuda_getDeviceCount() > 0
+18:47:20 [INFO]   Device: cpu
+18:47:20 [INFO]   Loaded grid configuration from file.
+18:47:20 [INFO]   Using cached grid: x=89.5, y=77.0, w=1216.8, h=1945.0
+18:47:20 [INFO]     page-004.png: 6.96s | conf=0.999 (min=0.407) | ambiguous=7
+18:47:20 [INFO]   
+18:47:20 [INFO]   Batch complete: 1 images in 7.0s (6.99s/image)
+18:47:20 [INFO]   Confidence metrics written to C:\Users\Athena\Documents\monospace-ocr-master\monospace-ocr-master\img\PDF\Output\EFTA00434905\metrics.json
+18:47:20 [INFO] Step 3/4: Reassembling text...
+18:47:20 [INFO]   Skipped 1 non-base64 pages: page-000.txt
+18:47:20 [INFO] Reassembled 4 base64 pages → recovered.txt (251 lines)
+18:47:20 [INFO] Step 4/4: Decoding base64...
+18:47:20 [ERROR] Base64 decode failed: Invalid base64-encoded string: number of data characters (18849) cannot be 1 more than a multiple of 4
+18:47:20 [INFO]   Avg confidence: 0.999 | Min: 0.407 | Ambiguous chars: 7
+18:47:20 [INFO] ✗ FAILED in 72.3s
+18:47:20 [INFO] 

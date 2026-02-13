@@ -1,0 +1,16 @@
+[
+  {
+    "image": "C:\\Users\\Athena\\Documents\\monospace-ocr-master\\monospace-ocr-master\\img\\PDF\\Output\\EFTA00382083\\images\\page-001.png",
+    "mean_confidence": 0.996713399887085,
+    "min_confidence": 0.40737083554267883,
+    "n_ambiguous": 8,
+    "n_fixes": 0
+  },
+  {
+    "image": "C:\\Users\\Athena\\Documents\\monospace-ocr-master\\monospace-ocr-master\\img\\PDF\\Output\\EFTA00382083\\images\\page-023.png",
+    "mean_confidence": 0.9993610978126526,
+    "min_confidence": 0.6525145173072815,
+    "n_ambiguous": 0,
+    "n_fixes": 0
+  }
+]
