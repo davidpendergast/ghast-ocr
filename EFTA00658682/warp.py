@@ -58,7 +58,10 @@ def warp(surf: pygame.Surface,
     out_size = (math.ceil(warp_bounding_box.w),
                 math.ceil(warp_bounding_box.h))
 
-    flags = cv2.INTER_LINEAR if smooth else cv2.INTER_NEAREST
+    if smooth is None:
+        smooth = cv2.INTER_NEAREST
+    flags = smooth
+
     out_rgb = cv2.warpPerspective(orig_rgb, mat, out_size, borderValue=bg_color, flags=flags)
 
     # if the provided output to overwrite is wrong size, make a new surface to use
@@ -78,6 +81,42 @@ def warp(surf: pygame.Surface,
     # XXX swap x and y once again...
     return out, pygame.FRect(warp_bounding_box.y, warp_bounding_box.x,
                              warp_bounding_box.h, warp_bounding_box.w)
+
+
+def rect_contains(r1, r2):
+    return (r1[0] <= r2[0]
+            and r1[1] <= r2[1]
+            and r1[0] + r1[2] >= r2[0] + r2[2]
+            and r1[1] + r1[3] >= r2[1] + r2[3])
+
+
+def calc_error(
+        sample_img: pygame.Surface,
+        rendered_template: pygame.Surface,
+        rect: pygame.Rect) -> typing.Tuple[int, pygame.Surface]:
+
+    surf_bw = pygame.transform.grayscale(sample_img.subsurface(rect))
+    rend_bw = pygame.transform.grayscale(rendered_template)
+
+    # should be the same size
+    surf_vals = pygame.surfarray.pixels_red(surf_bw)
+    rend_vals = pygame.surfarray.pixels_red(rend_bw)
+
+    alpha_surf = pygame.surfarray.pixels_alpha(rend_bw)
+    err_surf = numpy.subtract(surf_vals, rend_vals, dtype=numpy.int64)
+    err_surf = numpy.abs(err_surf, out=err_surf)
+    err_surf = numpy.multiply(err_surf, alpha_surf, dtype=numpy.int64)
+    err_surf = numpy.floor_divide(err_surf, 255, out=err_surf)
+
+    total_err = numpy.sum(numpy.square(err_surf))
+
+    ret = pygame.Surface(err_surf.shape[0:2], pygame.SRCALPHA)
+    pygame.surfarray.pixels_alpha(ret)[:] = alpha_surf
+    pygame.surfarray.pixels_red(ret)[:] = err_surf
+    pygame.surfarray.pixels_blue(ret)[:] = err_surf
+    pygame.surfarray.pixels_green(ret)[:] = err_surf
+
+    return total_err / (rect[2] * rect[3]), ret
 
 
 def safe_subsurf(img, rect, bg_color="white"):
